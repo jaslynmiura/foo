@@ -1,1 +1,3 @@
-more changes to the doc to practice merging!
+
+creating issues so that we can learn how to merge our conflicts!
+
